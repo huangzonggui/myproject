@@ -1,0 +1,16 @@
+http://www.appfuse.org/display/APF/AppFuse+QuickStart
+http://www.appfuse.org/display/APF/Tutorials
+
+mvn archetype:generate -B -DarchetypeGroupId=org.appfuse.archetypes -DarchetypeArtifactId=appfuse-basic-spring-archetype -DarchetypeVersion=3.5.0 -DgroupId=com.mycompany -DartifactId=myproject -DarchetypeRepository=https://oss.sonatype.org/content/repositories/appfuse
+
+mvn appfuse:full-source
+
+mvn clean -Denforcer.skip=true
+
+mvn compile -Denforcer.skip=true
+
+mvn jetty:run -Denforcer.skip=true
+
+mvn package -Denforcer.skip=true
+
+mvn jetty:run -Denforcer.skip=true -Pmysql
