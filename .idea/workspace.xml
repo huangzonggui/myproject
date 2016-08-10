@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ed33050d-dd23-47b1-b649-42a1e1caa1a8" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/decorators/default_jsp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/decorators/default_jsp.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/login_jsp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/login_jsp.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/tag/webassets_tag.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/tag/webassets_tag.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mycompany/dao/GenericDao.class" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/dao/GenericDao.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mycompany/dao/RoleDao.class" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/dao/RoleDao.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mycompany/dao/UserDao.class" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/dao/UserDao.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mycompany/dao/hibernate/GenericDaoHibernate.class" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/dao/hibernate/GenericDaoHibernate.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mycompany/dao/hibernate/HibernateSearchTools.class" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/dao/hibernate/HibernateSearchTools.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mycompany/dao/hibernate/LookupDaoHibernate.class" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/dao/hibernate/LookupDaoHibernate.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mycompany/dao/hibernate/RoleDaoHibernate.class" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/dao/hibernate/RoleDaoHibernate.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mycompany/dao/hibernate/UserDaoHibernate.class" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/dao/hibernate/UserDaoHibernate.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mycompany/dao/spring/HibernateExtensionPostProcessor.class" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/dao/spring/HibernateExtensionPostProcessor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mycompany/model/Address.class" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/model/Address.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mycompany/model/BaseObject.class" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/model/BaseObject.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mycompany/model/LabelValue$1.class" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/model/LabelValue$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mycompany/model/LabelValue.class" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/model/LabelValue.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mycompany/model/Role.class" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/model/Role.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mycompany/model/User.class" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/model/User.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mycompany/service/GenericManager.class" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/service/GenericManager.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mycompany/service/MailEngine.class" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/service/MailEngine.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mycompany/service/RoleManager.class" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/service/RoleManager.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mycompany/service/UserManager.class" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/service/UserManager.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mycompany/service/UserSecurityAdvice.class" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/service/UserSecurityAdvice.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mycompany/service/UserService.class" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/service/UserService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mycompany/service/impl/GenericManagerImpl.class" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/service/impl/GenericManagerImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mycompany/service/impl/LookupManagerImpl.class" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/service/impl/LookupManagerImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mycompany/service/impl/PasswordTokenManager.class" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/service/impl/PasswordTokenManager.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mycompany/service/impl/PasswordTokenManagerImpl.class" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/service/impl/PasswordTokenManagerImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mycompany/service/impl/PersistentPasswordTokenManagerImpl.class" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/service/impl/PersistentPasswordTokenManagerImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mycompany/service/impl/UserManagerImpl.class" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/service/impl/UserManagerImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mycompany/util/ConvertUtil.class" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/util/ConvertUtil.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mycompany/util/CurrencyConverter.class" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/util/CurrencyConverter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mycompany/util/DateConverter.class" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/util/DateConverter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mycompany/util/DateUtil.class" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/util/DateUtil.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mycompany/util/TimestampConverter.class" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/util/TimestampConverter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mycompany/webapp/controller/BaseFormController.class" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/webapp/controller/BaseFormController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mycompany/webapp/controller/FileUploadController.class" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/webapp/controller/FileUploadController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mycompany/webapp/controller/PasswordHintController.class" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/webapp/controller/PasswordHintController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mycompany/webapp/controller/ReloadController.class" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/webapp/controller/ReloadController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mycompany/webapp/controller/SignupController.class" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/webapp/controller/SignupController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mycompany/webapp/controller/UpdatePasswordController.class" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/webapp/controller/UpdatePasswordController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mycompany/webapp/controller/UserController.class" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/webapp/controller/UserController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mycompany/webapp/controller/UserFormController.class" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/webapp/controller/UserFormController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mycompany/webapp/filter/LocaleFilter.class" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/webapp/filter/LocaleFilter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mycompany/webapp/filter/LocaleRequestWrapper.class" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/webapp/filter/LocaleRequestWrapper.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mycompany/webapp/jsp/EscapeXmlELResolver$1.class" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/webapp/jsp/EscapeXmlELResolver$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mycompany/webapp/jsp/EscapeXmlELResolver.class" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/webapp/jsp/EscapeXmlELResolver.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mycompany/webapp/jsp/EscapeXmlELResolverListener.class" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/webapp/jsp/EscapeXmlELResolverListener.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mycompany/webapp/listener/StartupListener.class" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/webapp/listener/StartupListener.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mycompany/webapp/listener/UserCounterListener.class" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/webapp/listener/UserCounterListener.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mycompany/webapp/spring/ValidatorExtensionPostProcessor.class" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/webapp/spring/ValidatorExtensionPostProcessor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mycompany/webapp/taglib/ConstantsTag.class" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/webapp/taglib/ConstantsTag.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mycompany/webapp/taglib/ConstantsTei.class" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/webapp/taglib/ConstantsTei.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mycompany/webapp/taglib/CountryTag$LabelValueComparator.class" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/webapp/taglib/CountryTag$LabelValueComparator.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mycompany/webapp/taglib/CountryTag.class" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/webapp/taglib/CountryTag.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mycompany/webapp/taglib/LabelTag.class" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/webapp/taglib/LabelTag.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mycompany/webapp/taglib/OutTag.class" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/webapp/taglib/OutTag.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mycompany/webapp/util/RequestUtil.class" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/webapp/util/RequestUtil.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mycompany/webapp/util/ValidationUtil.class" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/webapp/util/ValidationUtil.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/hibernate4-generatedschema.md5s" afterPath="$PROJECT_DIR$/target/hibernate4-generatedschema.md5s" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/mycompany/dao/GenericDaoTest.class" afterPath="$PROJECT_DIR$/target/test-classes/com/mycompany/dao/GenericDaoTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/mycompany/dao/RoleDaoTest.class" afterPath="$PROJECT_DIR$/target/test-classes/com/mycompany/dao/RoleDaoTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/mycompany/dao/UserDaoTest.class" afterPath="$PROJECT_DIR$/target/test-classes/com/mycompany/dao/UserDaoTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/mycompany/dao/hibernate/HibernateConfigurationTest.class" afterPath="$PROJECT_DIR$/target/test-classes/com/mycompany/dao/hibernate/HibernateConfigurationTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/mycompany/service/BaseManagerTestCase.class" afterPath="$PROJECT_DIR$/target/test-classes/com/mycompany/service/BaseManagerTestCase.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/mycompany/service/MailEngineTest.class" afterPath="$PROJECT_DIR$/target/test-classes/com/mycompany/service/MailEngineTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/mycompany/service/UserExistsExceptionTest.class" afterPath="$PROJECT_DIR$/target/test-classes/com/mycompany/service/UserExistsExceptionTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/mycompany/service/UserManagerTest.class" afterPath="$PROJECT_DIR$/target/test-classes/com/mycompany/service/UserManagerTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/mycompany/service/impl/BaseManagerMockTestCase.class" afterPath="$PROJECT_DIR$/target/test-classes/com/mycompany/service/impl/BaseManagerMockTestCase.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/mycompany/service/impl/LookupManagerImplTest.class" afterPath="$PROJECT_DIR$/target/test-classes/com/mycompany/service/impl/LookupManagerImplTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/mycompany/service/impl/UserManagerImplTest.class" afterPath="$PROJECT_DIR$/target/test-classes/com/mycompany/service/impl/UserManagerImplTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/mycompany/service/impl/UserSecurityAdviceTest.class" afterPath="$PROJECT_DIR$/target/test-classes/com/mycompany/service/impl/UserSecurityAdviceTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/mycompany/util/DateConverterTest$1.class" afterPath="$PROJECT_DIR$/target/test-classes/com/mycompany/util/DateConverterTest$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/mycompany/util/DateConverterTest.class" afterPath="$PROJECT_DIR$/target/test-classes/com/mycompany/util/DateConverterTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/mycompany/util/DateUtilTest.class" afterPath="$PROJECT_DIR$/target/test-classes/com/mycompany/util/DateUtilTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/mycompany/webapp/controller/PasswordHintControllerTest.class" afterPath="$PROJECT_DIR$/target/test-classes/com/mycompany/webapp/controller/PasswordHintControllerTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/mycompany/webapp/controller/SignupControllerTest.class" afterPath="$PROJECT_DIR$/target/test-classes/com/mycompany/webapp/controller/SignupControllerTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/mycompany/webapp/controller/UpdatePasswordControllerTest.class" afterPath="$PROJECT_DIR$/target/test-classes/com/mycompany/webapp/controller/UpdatePasswordControllerTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/mycompany/webapp/controller/UserControllerTest.class" afterPath="$PROJECT_DIR$/target/test-classes/com/mycompany/webapp/controller/UserControllerTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/mycompany/webapp/controller/UserFormControllerTest.class" afterPath="$PROJECT_DIR$/target/test-classes/com/mycompany/webapp/controller/UserFormControllerTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/mycompany/webapp/filter/LocaleFilterTest.class" afterPath="$PROJECT_DIR$/target/test-classes/com/mycompany/webapp/filter/LocaleFilterTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/mycompany/webapp/filter/MockFilterChain.class" afterPath="$PROJECT_DIR$/target/test-classes/com/mycompany/webapp/filter/MockFilterChain.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/mycompany/webapp/listener/StartupListenerTest.class" afterPath="$PROJECT_DIR$/target/test-classes/com/mycompany/webapp/listener/StartupListenerTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/resources/sample-data.xml" afterPath="$PROJECT_DIR$/src/test/resources/sample-data.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" afterPath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/hibernate.cfg.xml" afterPath="$PROJECT_DIR$/target/classes/hibernate.cfg.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/schema.sql" afterPath="$PROJECT_DIR$/target/schema.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/WEB-INF/applicationContext.xml" afterPath="$PROJECT_DIR$/target/test-classes/WEB-INF/applicationContext.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/sample-data.xml" afterPath="$PROJECT_DIR$/target/test-classes/sample-data.xml" />
+    </list>
+    <ignored path="myproject.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="myproject" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="1622" />
+    <option name="height" value="866" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="com.genymobile.genymotion.ide.idea.GdmSettings" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-11" y="-11" width="1622" height="866" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>

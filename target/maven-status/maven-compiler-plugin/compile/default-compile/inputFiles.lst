@@ -8,8 +8,8 @@ F:\hage\myproject\src\main\java\com\mycompany\model\Role.java
 F:\hage\myproject\src\main\java\com\mycompany\model\LabelValue.java
 F:\hage\myproject\src\main\java\com\mycompany\webapp\taglib\ConstantsTei.java
 F:\hage\myproject\src\main\java\com\mycompany\webapp\taglib\LabelTag.java
-F:\hage\myproject\src\main\java\com\mycompany\service\impl\RoleManagerImpl.java
 F:\hage\myproject\src\main\java\com\mycompany\webapp\controller\UserFormController.java
+F:\hage\myproject\src\main\java\com\mycompany\service\impl\RoleManagerImpl.java
 F:\hage\myproject\src\main\java\com\mycompany\model\Address.java
 F:\hage\myproject\src\main\java\com\mycompany\webapp\controller\ReloadController.java
 F:\hage\myproject\src\main\java\com\mycompany\webapp\taglib\OutTag.java
@@ -19,6 +19,7 @@ F:\hage\myproject\src\main\java\com\mycompany\service\MailEngine.java
 F:\hage\myproject\src\main\java\com\mycompany\dao\GenericDao.java
 F:\hage\myproject\src\main\java\com\mycompany\service\impl\LookupManagerImpl.java
 F:\hage\myproject\src\main\java\com\mycompany\webapp\controller\SignupController.java
+F:\hage\myproject\src\main\java\com\mycompany\tutorial\model\Person.java
 F:\hage\myproject\src\main\java\com\mycompany\service\RoleManager.java
 F:\hage\myproject\src\main\java\com\mycompany\webapp\filter\LocaleFilter.java
 F:\hage\myproject\src\main\java\com\mycompany\webapp\jsp\EscapeXml.java
@@ -26,6 +27,7 @@ F:\hage\myproject\src\main\java\com\mycompany\webapp\taglib\CountryTag.java
 F:\hage\myproject\src\main\java\com\mycompany\service\impl\UserManagerImpl.java
 F:\hage\myproject\src\main\java\com\mycompany\dao\hibernate\RoleDaoHibernate.java
 F:\hage\myproject\src\main\java\com\mycompany\webapp\filter\LocaleRequestWrapper.java
+F:\hage\myproject\src\main\java\com\mycompany\tutorial\dao\hibernate\PersonDaoHibernate.java
 F:\hage\myproject\src\main\java\com\mycompany\dao\LookupDao.java
 F:\hage\myproject\src\main\java\com\mycompany\webapp\jsp\EscapeXmlELResolver.java
 F:\hage\myproject\src\main\java\com\mycompany\service\impl\GenericManagerImpl.java
@@ -41,11 +43,12 @@ F:\hage\myproject\src\main\java\com\mycompany\service\impl\PersistentPasswordTok
 F:\hage\myproject\src\main\java\com\mycompany\service\UserExistsException.java
 F:\hage\myproject\src\main\java\com\mycompany\webapp\controller\PasswordHintController.java
 F:\hage\myproject\src\main\java\com\mycompany\service\GenericManager.java
+F:\hage\myproject\src\main\java\com\mycompany\tutorial\dao\PersonDao.java
 F:\hage\myproject\src\main\java\com\mycompany\model\BaseObject.java
 F:\hage\myproject\src\main\java\com\mycompany\util\DateConverter.java
 F:\hage\myproject\src\main\java\com\mycompany\util\DateUtil.java
-F:\hage\myproject\src\main\java\com\mycompany\Constants.java
 F:\hage\myproject\src\main\java\com\mycompany\model\User.java
+F:\hage\myproject\src\main\java\com\mycompany\Constants.java
 F:\hage\myproject\src\main\java\com\mycompany\service\LookupManager.java
 F:\hage\myproject\src\main\java\com\mycompany\webapp\util\RequestUtil.java
 F:\hage\myproject\src\main\java\com\mycompany\dao\hibernate\LookupDaoHibernate.java

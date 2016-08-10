@@ -7,11 +7,20 @@
         drop 
         foreign key FK_apcc8lxk2xnug8377fatvbn04;
 
+    drop table if exists Person;
+
     drop table if exists app_user;
 
     drop table if exists role;
 
     drop table if exists user_role;
+
+    create table Person (
+        id bigint not null auto_increment,
+        first_name varchar(50),
+        last_name varchar(50),
+        primary key (id)
+    ) ENGINE=InnoDB;
 
     create table app_user (
         id bigint not null auto_increment,

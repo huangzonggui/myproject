@@ -7,6 +7,7 @@ com\mycompany\webapp\controller\BaseFormController.class
 com\mycompany\webapp\util\ValidationUtil.class
 com\mycompany\webapp\taglib\ConstantsTag.class
 com\mycompany\webapp\controller\SignupController.class
+com\mycompany\tutorial\dao\hibernate\PersonDaoHibernate.class
 com\mycompany\service\impl\RoleManagerImpl.class
 com\mycompany\dao\hibernate\HibernateSearchTools.class
 com\mycompany\webapp\controller\FileUploadController.class
@@ -52,6 +53,7 @@ com\mycompany\dao\SearchException.class
 com\mycompany\dao\GenericDao.class
 com\mycompany\service\impl\UserManagerImpl.class
 com\mycompany\util\ConvertUtil.class
+com\mycompany\tutorial\model\Person.class
 com\mycompany\service\impl\PersistentPasswordTokenManagerImpl.class
 com\mycompany\webapp\jsp\EscapeXml.class
 com\mycompany\webapp\taglib\ConstantsTei.class
@@ -60,5 +62,6 @@ com\mycompany\service\impl\PasswordTokenManagerImpl.class
 com\mycompany\webapp\listener\StartupListener.class
 com\mycompany\util\DateConverter.class
 com\mycompany\service\impl\LookupManagerImpl.class
+com\mycompany\tutorial\dao\PersonDao.class
 com\mycompany\util\DateUtil.class
 com\mycompany\dao\hibernate\UserDaoHibernate.class
