@@ -2,30 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed33050d-dd23-47b1-b649-42a1e1caa1a8" name="Default" comment="实现dao层的增删查改（person）">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/mycompany/tutorial/dao/PersonDao.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/mycompany/tutorial/dao/hibernate/PersonDaoHibernate.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/mycompany/tutorial/model/Person.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.mycompany.tutorial.PersonDaoTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/com.mycompany.tutorial.PersonDaoTest.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/mycompany/tutorial/PersonDaoTest.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/hibernate4-generatedschema.md5s" afterPath="$PROJECT_DIR$/target/hibernate4-generatedschema.md5s" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/mycompany/dao/BaseDaoTestCase.class" afterPath="$PROJECT_DIR$/target/test-classes/com/mycompany/dao/BaseDaoTestCase.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myproject.iml" afterPath="$PROJECT_DIR$/myproject.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/mycompany/dao/BaseDaoTestCase.java" afterPath="$PROJECT_DIR$/src/test/java/com/mycompany/dao/BaseDaoTestCase.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/hibernate.cfg.xml" afterPath="$PROJECT_DIR$/target/classes/hibernate.cfg.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/WEB-INF/applicationContext.xml" afterPath="$PROJECT_DIR$/target/test-classes/WEB-INF/applicationContext.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/mycompany/tutorial/dao/hibernate/PersonDaoHibernate.java" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/dao/hibernate/PersonDaoHibernate.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/mycompany/tutorial/model/Person.java" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/model/Person.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/com/mycompany/tutorial/PersonDaoTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/mycompany/dao/PersonDaoTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/mycompany/dao/PersonDaoTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/mycompany/dao/PersonDaoTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/mycompany/tutorial/dao/PersonDao.java" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/dao/PersonDao.java" />
     </list>
     <ignored path="myproject.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -46,11 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="PersonDaoTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="PersonDaoTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/mycompany/dao/PersonDaoTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-435">
-              <caret line="31" column="41" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
+            <state relative-caret-position="297">
+              <caret line="45" column="37" selection-start-line="45" selection-start-column="37" selection-end-line="45" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -73,7 +53,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1218">
+            <state relative-caret-position="29">
               <caret line="42" column="30" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
               <folding />
             </state>
@@ -83,20 +63,33 @@
       <file leaf-file-name="applicationContext-dao.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext-dao.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-109">
+            <state relative-caret-position="57">
               <caret line="29" column="75" selection-start-line="29" selection-start-column="75" selection-end-line="29" selection-end-column="75" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Person.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Person.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/model/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="29">
-              <caret line="54" column="34" selection-start-line="54" selection-start-column="34" selection-end-line="54" selection-end-column="34" />
+            <state relative-caret-position="1131">
+              <caret line="64" column="24" selection-start-line="64" selection-start-column="24" selection-end-line="64" selection-end-column="24" />
               <folding>
+                <element signature="e#1453#1454#0" expanded="true" />
                 <element signature="e#1485#1486#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PersonDao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/dao/PersonDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="174">
+              <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -143,8 +136,8 @@
         <option value="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/mycompany/dao/BaseDaoTestCase.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/com/mycompany/dao/PersonDaoTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/mycompany/dao/PersonDao.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mycompany/dao/PersonDaoTest.java" />
       </list>
     </option>
   </component>
@@ -352,6 +345,36 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myproject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myproject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mycompany" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
@@ -369,6 +392,9 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../appfuse-demos" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.mycompany.dao" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.mycompany.dao" />
       <recent name="com.mycompany.model" />
@@ -667,8 +693,8 @@
     <recent_temporary>
       <list size="4">
         <item index="0" class="java.lang.String" itemvalue="JUnit.PersonDaoTest.testAddAndRemovePerson (1)" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.All in myproject" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.PersonDaoTest.testFindPersonByLastName" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.PersonDaoTest.testFindPersonByLastName" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.All in myproject" />
         <item index="3" class="java.lang.String" itemvalue="JUnit.PersonDaoTest.testAddAndRemovePerson" />
       </list>
     </recent_temporary>
@@ -683,35 +709,35 @@
     <option name="remove_strategy" value="false" />
   </component>
   <component name="TestHistory">
-    <history-entry file="PersonDaoTest_testAddAndRemovePerson_(1) - 2016.08.11 at 10h 51m 52s.xml">
+    <history-entry file="PersonDaoTest_testAddAndRemovePerson_(1) - 2016.08.11 at 15h 54m 42s.xml">
       <configuration name="PersonDaoTest.testAddAndRemovePerson (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PersonDaoTest_testAddAndRemovePerson_(1) - 2016.08.11 at 11h 24m 36s.xml">
+    <history-entry file="PersonDaoTest_testAddAndRemovePerson_(1) - 2016.08.11 at 15h 54m 57s.xml">
       <configuration name="PersonDaoTest.testAddAndRemovePerson (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PersonDaoTest_testAddAndRemovePerson_(1) - 2016.08.11 at 11h 25m 14s.xml">
+    <history-entry file="PersonDaoTest_testAddAndRemovePerson_(1) - 2016.08.11 at 15h 56m 37s.xml">
       <configuration name="PersonDaoTest.testAddAndRemovePerson (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PersonDaoTest_testAddAndRemovePerson_(1) - 2016.08.11 at 11h 25m 58s.xml">
+    <history-entry file="PersonDaoTest_testAddAndRemovePerson_(1) - 2016.08.11 at 15h 57m 20s.xml">
       <configuration name="PersonDaoTest.testAddAndRemovePerson (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PersonDaoTest_testAddAndRemovePerson_(1) - 2016.08.11 at 15h 18m 15s.xml">
+    <history-entry file="PersonDaoTest_testAddAndRemovePerson_(1) - 2016.08.11 at 15h 57m 45s.xml">
       <configuration name="PersonDaoTest.testAddAndRemovePerson (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PersonDaoTest_testAddAndRemovePerson_(1) - 2016.08.11 at 15h 19m 35s.xml">
+    <history-entry file="PersonDaoTest_testAddAndRemovePerson_(1) - 2016.08.11 at 15h 58m 34s.xml">
       <configuration name="PersonDaoTest.testAddAndRemovePerson (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PersonDaoTest_testAddAndRemovePerson_(1) - 2016.08.11 at 15h 34m 14s.xml">
+    <history-entry file="PersonDaoTest_testAddAndRemovePerson_(1) - 2016.08.11 at 15h 59m 03s.xml">
       <configuration name="PersonDaoTest.testAddAndRemovePerson (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PersonDaoTest_testAddAndRemovePerson_(1) - 2016.08.11 at 15h 35m 58s.xml">
+    <history-entry file="PersonDaoTest_testAddAndRemovePerson_(1) - 2016.08.11 at 15h 59m 48s.xml">
       <configuration name="PersonDaoTest.testAddAndRemovePerson (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PersonDaoTest_testAddAndRemovePerson_(1) - 2016.08.11 at 15h 41m 51s.xml">
-      <configuration name="PersonDaoTest.testAddAndRemovePerson (1)" configurationId="JUnit" />
+    <history-entry file="PersonDaoTest_testFindPersonByLastName - 2016.08.11 at 15h 55m 25s.xml">
+      <configuration name="PersonDaoTest.testFindPersonByLastName" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PersonDaoTest_testAddAndRemovePerson_(1) - 2016.08.11 at 15h 43m 12s.xml">
-      <configuration name="PersonDaoTest.testAddAndRemovePerson (1)" configurationId="JUnit" />
+    <history-entry file="PersonDaoTest_testFindPersonByLastName - 2016.08.11 at 15h 56m 04s.xml">
+      <configuration name="PersonDaoTest.testFindPersonByLastName" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -725,7 +751,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1622" height="866" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5777778" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -734,8 +760,8 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.119451694" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6698413" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7952381" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6888889" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -778,6 +804,24 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5063492" order="4" side_tool="true" content_ui="tabs" />
     </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -838,6 +882,7 @@
         <state relative-caret-position="1566">
           <caret line="54" column="34" selection-start-line="54" selection-start-column="34" selection-end-line="54" selection-end-column="34" />
           <folding>
+            <element signature="e#1453#1454#0" expanded="true" />
             <element signature="e#1485#1486#0" expanded="true" />
           </folding>
         </state>
@@ -923,6 +968,7 @@
         <state relative-caret-position="261">
           <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding>
+            <element signature="e#1453#1454#0" expanded="true" />
             <element signature="e#1485#1486#0" expanded="true" />
           </folding>
         </state>
@@ -938,7 +984,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/mycompany/tutorial/PersonDaoTest.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/tutorial/model/Person.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/tutorial/dao/PersonDao.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/dao/PersonDao.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/com/mycompany/dao/BaseDaoTestCase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="638">
@@ -995,7 +1041,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/tutorial/model/Person.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/tutorial/dao/PersonDao.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/dao/PersonDao.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/com/mycompany/tutorial/PersonDaoTest.java" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -1063,22 +1109,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1218">
-          <caret line="42" column="30" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext-dao.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-109">
-          <caret line="29" column="75" selection-start-line="29" selection-start-column="75" selection-end-line="29" selection-end-column="75" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/statements/ExpectException.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-174">
@@ -1108,16 +1138,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/mycompany/dao/PersonDaoTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-435">
-          <caret line="31" column="41" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/dao/hibernate/PersonDaoHibernate.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="65">
@@ -1129,20 +1149,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/dao/PersonDao.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext-dao.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="65">
-          <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+        <state relative-caret-position="57">
+          <caret line="29" column="75" selection-start-line="29" selection-start-column="75" selection-end-line="29" selection-end-column="75" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/model/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="54" column="34" selection-start-line="54" selection-start-column="34" selection-end-line="54" selection-end-column="34" />
+        <state relative-caret-position="1131">
+          <caret line="64" column="24" selection-start-line="64" selection-start-column="24" selection-end-line="64" selection-end-column="24" />
           <folding>
+            <element signature="e#1453#1454#0" expanded="true" />
             <element signature="e#1485#1486#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/dao/PersonDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="42" column="30" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/mycompany/dao/PersonDaoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="45" column="37" selection-start-line="45" selection-start-column="37" selection-end-line="45" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

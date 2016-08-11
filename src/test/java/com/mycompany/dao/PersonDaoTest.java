@@ -44,6 +44,7 @@ public class PersonDaoTest extends BaseDaoTestCase{
 
     @Test(expected = DataAccessException.class)
     //预期抛出DataAccessException这个异常，不抛出测试失败
+//    @Test
     public void testAddAndRemovePerson() throws Exception {
         Person person = new Person();
         person.setFirstName("Country");
