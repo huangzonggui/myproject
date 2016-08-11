@@ -8,6 +8,6 @@
     <session-factory>
         <mapping class="com.mycompany.model.User"/>
         <mapping class="com.mycompany.model.Role"/>
-        <mapping class="com.mycompany.tutorial.model.Person"/>
+        <mapping class="com.mycompany.model.Person"/>
     </session-factory>
 </hibernate-configuration>

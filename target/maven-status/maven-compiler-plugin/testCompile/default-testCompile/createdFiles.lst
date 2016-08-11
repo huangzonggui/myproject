@@ -6,7 +6,6 @@ com\mycompany\dao\RoleDaoTest.class
 com\mycompany\util\DateUtilTest.class
 com\mycompany\service\UserExistsExceptionTest.class
 com\mycompany\webapp\listener\StartupListenerTest.class
-com\mycompany\tutorial\PersonDaoTest.class
 com\mycompany\webapp\controller\SignupControllerTest.class
 com\mycompany\webapp\controller\BaseControllerTestCase.class
 com\mycompany\service\MockUserDetailsService.class
@@ -28,3 +27,4 @@ com\mycompany\dao\BaseDaoTestCase.class
 com\mycompany\webapp\controller\UserFormControllerTest.class
 com\mycompany\dao\UserDaoTest.class
 com\mycompany\service\impl\PersistentPasswordTokenManagerTest.class
+com\mycompany\dao\PersonDaoTest.class

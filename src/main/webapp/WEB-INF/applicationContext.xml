@@ -14,10 +14,17 @@
     <!-- Add new DAOs here -->
 
     <bean id="personDao" class="org.appfuse.dao.hibernate.GenericDaoHibernate">
-        <constructor-arg value="org.appfuse.test.model.Person"/>
+        <constructor-arg value="com.mycompany.model.Person"/>
     </bean>
+
     <!-- Add new Managers here -->
-    
+    <!--<bean id="personManager" class="org.appfuse.service.impl.GenericManagerImpl">-->
+        <!--<constructor-arg>-->
+            <!--<bean class="org.appfuse.dao.hibernate.GenericDaoHibernate" autowire="byType">-->
+                <!--<constructor-arg value="com.mycompany.tutorial.model.Person"/>-->
+            <!--</bean>-->
+        <!--</constructor-arg>-->
+    <!--</bean>-->
     <!-- Configure and Alternative PasswordTokenManager -->
 	<!-- <bean id="passwordTokenManager" class="com.mycompany.service.impl.PersistentPasswordTokenManagerImpl" autowire="default" /> -->
 
