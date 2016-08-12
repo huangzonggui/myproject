@@ -15,19 +15,17 @@
  */
 package com.mycompany.model;
 
-import javax.persistence.Column;
-import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.Id;
+import javax.persistence.*;
+import javax.xml.bind.annotation.XmlRootElement;
 
 /**
- *
  * @author hzg
  */
-
+@XmlRootElement
 @Entity
-public class Person extends BaseObject{
-    
+@Table(name = "person")
+public class Person extends BaseObject {
+
     private Long id;
     private String firstName;
     private String lastName;
@@ -45,17 +43,19 @@ public class Person extends BaseObject{
     }
 
     //     @ id 注释表示主键  @GeneratedValue 注释指定显示主键的生成策略。 
-    @Id @GeneratedValue
+    @Id
+    @GeneratedValue
     public Long getId() {
         return id;
     }
 
     //    你也可以把JPA注释字段代替 getter 。 然而,你应该知道,如果你添加字段级注释, 方法级注释将被忽略
-    @Column(name = "first_name",length = 50)
+    @Column(name = "first_name", length = 50)
     public String getFirstName() {
         return firstName;
     }
-    @Column(name = "last_name",length = 50)
+
+    @Column(name = "last_name", length = 50)
     public String getLastName() {
         return lastName;
     }
@@ -66,7 +66,7 @@ public class Person extends BaseObject{
                 + "id=" + id
                 + ", firstName='" + firstName + '\''
                 + ", lastName='" + lastName + '\''
-                + '}'; 
+                + '}';
     }
 
     @Override
@@ -77,6 +77,6 @@ public class Person extends BaseObject{
     @Override
     public int hashCode() {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
-    }  
-    
+    }
+
 }

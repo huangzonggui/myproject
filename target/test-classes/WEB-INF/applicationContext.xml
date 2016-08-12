@@ -13,9 +13,9 @@
 
     <!-- Add new DAOs here -->
 
-    <bean id="personDao" class="org.appfuse.dao.hibernate.GenericDaoHibernate">
-        <constructor-arg value="com.mycompany.model.Person"/>
-    </bean>
+    <!--<bean id="personDao" class="org.appfuse.dao.hibernate.GenericDaoHibernate">-->
+        <!--<constructor-arg value="com.mycompany.model.Person"/>-->
+    <!--</bean>-->
 
     <!-- Add new Managers here -->
     <!--<bean id="personManager" class="org.appfuse.service.impl.GenericManagerImpl">-->
